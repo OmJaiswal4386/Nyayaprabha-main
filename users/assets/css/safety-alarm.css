@@ -1,0 +1,17 @@
+/* Custom styles for safety alarm */
+
+/* Style for the alarm controls */
+.alarm-controls {
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Style for the start alarm button */
+#start-alarm {
+    margin-right: 10px;
+}
+
+/* Style for the pause alarm button */
+#pause-alarm {
+    margin-left: 10px;
+}
